@@ -1,0 +1,17 @@
+acb2,mic21,5,6,1
+abc1,boeing747,6,5,3
+johnny,su36,7,5,1
+4,boeing258,9,8,1
+5,mic16,5,5,1
+6,hondacivic,5,5,4
+7,yamaha,4,6,6
+8,sonic,7,6,0
+mh379,china,7,9,0
+10ac,taukhua,8,5,0
+11,gozilla,9,6,0
+b52,bomber,6,9,0
+songoku,namek,8,8,0
+vegata,supersaiyan,9,9,9
+bigguy,atomicbomb,9,8,0
+little,small,9,5,10
+qwe,asd,6,5,0
